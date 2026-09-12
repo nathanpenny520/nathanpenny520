@@ -54,10 +54,3 @@ A Qt 6 / C++17 cross-platform AI assistant desktop app with GUI + CLI dual modes
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
-
-## 📊 GitHub Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nathanpenny520&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpenny520&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top Langs" />
-</p>
