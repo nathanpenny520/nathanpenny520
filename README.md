@@ -38,8 +38,22 @@ If my projects saved you time, consider buying me a coffee — it keeps local-fi
 
 ## 📢 Ads
 
-| | | |
-| :---: | :---: | :---: |
-| **[Nmail](https://github.com/nathanpenny520/Nmail)**<br><sub>Local-first AI email client<br>`uvx --from nmail-app nmail`</sub> | **[whizzzest.com](https://whizzzest.com)**<br><sub>焰境·万载 · digital cultural tourism</sub> | **📺 AD SPACE FOR RENT**<br><sub>Your product here —<br>email nathanpenny@qq.com</sub> |
+<table>
+  <tr>
+    <td width="33%" align="center" valign="middle">
+      <a href="https://github.com/nathanpenny520/Nmail"><b>Nmail</b></a><br>
+      <sub>Local-first AI email client</sub><br>
+      <code>uvx --from nmail-app nmail</code>
+    </td>
+    <td width="33%" align="center" valign="middle">
+      <a href="https://whizzzest.com"><b>whizzzest.com</b></a><br>
+      <sub>焰境·万载 · digital cultural tourism</sub>
+    </td>
+    <td width="33%" align="center" valign="middle">
+      <b>📺 AD SPACE FOR RENT</b><br>
+      <sub>Your product here — email <a href="mailto:nathanpenny@qq.com">nathanpenny@qq.com</a></sub>
+    </td>
+  </tr>
+</table>
 
 <!-- Third ad slot is a placeholder — swap in anything. -->
