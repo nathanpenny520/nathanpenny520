@@ -6,7 +6,7 @@
 
 Tsinghua University · Beijing
 
-[pan-nie.github.io](https://pan-nie.github.io) · [nathanpenny.fun](https://nathanpenny.fun) · [GitHub](https://github.com/pan-nie) · [Email](mailto:hello@nathanpenny.fun) · [X](https://x.com/NathanPenny520)
+[pan-nie.github.io](https://pan-nie.github.io) · [nathanpenny.fun](https://nathanpenny.fun) · [GitHub](https://github.com/pan-nie) · [Email](mailto:hello@nathanpenny.fun) · [X](https://x.com/pan_nie_thu)
 
 <sub>12 public repositories · 123 stars · 70 forks</sub>
 
