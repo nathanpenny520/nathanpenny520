@@ -2,90 +2,60 @@
 
 # Pan Nie
 
-**I build local-first AI systems** — desktop apps, agents and web products that keep your data on your own machine.
+**I build local-first AI systems** — desktop apps and agents that keep your data on your own machine.
 
 Tsinghua University · Beijing
 
-[pan-nie.github.io](https://pan-nie.github.io) · [nathanpenny.fun](https://nathanpenny.fun) · [GitHub](https://github.com/pan-nie) · [Email](mailto:hello@nathanpenny.fun) · [X](https://x.com/pan_nie_thu)
-
-<sub>12 public repositories · 123 stars · 70 forks</sub>
+[GitHub](https://github.com/pan-nie) · [X](https://x.com/pan_nie_thu) · [Résumé](https://pan-nie.github.io)
 
 </div>
 
 ---
 
-## 🧠 Technical Strengths
+## Selected Projects
 
-**Local-first AI & agents**
-- On-device inference through Ollama / LM Studio behind an OpenAI-compatible layer — no account, no telemetry, everything stays on `127.0.0.1`
-- MCP tool servers exposing **64 tools**, with risk-tiered permissions (read / write / write+pay / destructive) and a human approval gate on every write action
-- Long-running agent supervision: session keep-alive, SQLite-backed audit and pending-confirmation state, scheduled monitors, push notifications
-- Agentic email workflows — intent → search → classify → draft → approval → send, with every action auditable and reversible
+| Project | ★ | About |
+| --- | --- | --- |
+| [Nmail](https://github.com/pan-nie/Nmail) | 13 | Local-first AI email client — multi-account inbox, AI triage and drafted replies, with every send approved by you. |
+| [LocalAIAssistant](https://github.com/pan-nie/LocalAIAssistant) | 20 | Cross-platform desktop AI assistant — GUI and CLI in one binary, with a voice-interactive companion. |
+| [Tsinghua Agent](https://github.com/pan-nie/TsinghuaMCP) | 9 | Long-running personal agent for campus affairs — 64 tools, a resident supervisor and push alerts. |
+| [DeepLearningCourseForMe](https://github.com/pan-nie/DeepLearningCourseForMe) | 11 | Deep learning from first principles — 62 runnable lessons across 8 modules. |
+| [TsinghuaSurvive](https://github.com/pan-nie/TsinghuaSurvive) | 11 | A student-written survival guide for Tsinghua. |
+| [whizzzest.com](https://github.com/pan-nie/whizzzest.com) | 11 | A digital cultural-tourism experience for 焰境·万载. |
+| [nmail-site](https://github.com/pan-nie/nmail-site) | 11 | Nmail's official website. |
 
-**Cross-platform desktop — C++17 / Qt 6**
-- A single binary shipping both GUI and CLI, with SSE token streaming and persistent multi-session history
-- File, image and PDF/docx attachments, theming, i18n, and voice interaction (ASR + TTS)
-- Release engineering: PyPI packages, a Homebrew tap, and builds for Windows / macOS / Linux
+---
+
+## Expertise
+
+**AI & agent systems**
+
+![MCP](https://img.shields.io/badge/MCP-1F1F1F?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Desktop engineering**
+
+![C++17](https://img.shields.io/badge/C%2B%2B17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Qt 6](https://img.shields.io/badge/Qt%206-41CD52?style=flat-square&logo=qt&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Web & backend**
-- Astro sites with zero client-side JavaScript, deployed on Cloudflare Workers
-- FastAPI + React services bound to loopback, TypeScript monorepos with pnpm workspaces
-- Local HTTP APIs and CLIs designed so other tools (Raycast, n8n, iOS Shortcuts, AI agents) can plug in
 
-**Machine learning, from first principles**
-- 62 runnable lessons: numpy-level linear algebra and calculus → CNNs and Transformers → LLMs (tokenization, scaling laws, LoRA, alignment, KV cache, RAG, evaluation)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 
----
+**Infrastructure & tooling**
 
-## 🚀 Featured Projects
-
-### 📬 [Nmail](https://github.com/pan-nie/Nmail) — local-first AI email client
-
-`Python` · `FastAPI` · `React` · `SQLite` · MIT
-
-Multiple accounts in one inbox, AI classification and archiving, drafted replies and a daily digest, plus an agent that carries out multi-step mail chores. Every send waits for your approval, and mail never leaves your machine — it runs fully offline with Ollama. Distributed on PyPI and through a Homebrew tap.
-
-`uvx --from nmail-app nmail` · [nmail.whizzzest.com](https://nmail.whizzzest.com) · [tap](https://github.com/pan-nie/homebrew-nmail)
-
-### 🖥️ [LocalAIAssistant](https://github.com/pan-nie/LocalAIAssistant) — cross-platform desktop AI assistant
-
-`C++17` · `Qt 6`
-
-GUI and CLI in one binary: streaming replies, multi-session history, file and image attachments, themes, i18n, and a voice-interactive companion module with an emotion system and long-term memory.
-
-### 🎓 [Tsinghua Agent](https://github.com/pan-nie/TsinghuaMCP) — long-running personal agent + MCP server
-
-`TypeScript` · `MCP` · `SQLite`
-
-A campus-affairs agent with 34 read-only and 30 write/monitoring tools, backed by a resident supervisor that keeps sessions alive and pushes grade, electricity, card-balance, news and course-registration alerts.
-
----
-
-## 📦 More Projects
-
-| Project | Stack | What it is |
-| --- | --- | --- |
-| 🧭 [TsinghuaSurvive](https://github.com/pan-nie/TsinghuaSurvive) | `JavaScript` | A student-written survival guide for Tsinghua — [tsinghua.nathanpenny.fun](https://tsinghua.nathanpenny.fun) |
-| 🧠 [DeepLearningCourseForMe](https://github.com/pan-nie/DeepLearningCourseForMe) | `Jupyter` | 62 lessons of deep-learning notes and runnable code across 8 modules, paired with a video series |
-| 🌐 [nathanpenny.fun](https://github.com/pan-nie/nathanpenny.fun) | `JavaScript` | My personal site and blog |
-| 📄 [pan-nie.github.io](https://github.com/pan-nie/pan-nie.github.io) | `HTML` | Bilingual, print-ready CV homepage — zero build |
-| 🏯 [whizzzest.com](https://github.com/pan-nie/whizzzest.com) | `JavaScript` | A digital cultural-tourism experience for 焰境·万载 — [whizzzest.com](https://whizzzest.com) |
-| 🛰️ [nmail-site](https://github.com/pan-nie/nmail-site) | `Astro` | Nmail's website — zero client-side JS, on Cloudflare Workers |
-| 🍺 [homebrew-nmail](https://github.com/pan-nie/homebrew-nmail) | `Ruby` | The Homebrew tap that ships Nmail on macOS |
-| ✍️ [wechat-article](https://github.com/pan-nie/wechat-article) | `Python` | A self-contained skill that carries a WeChat article from topic selection to the drafts folder |
-
----
-
-## 🧰 Toolbox
-
-`Python` · `TypeScript` · `C++17` · `Qt 6` · `React` · `Astro` · `FastAPI` · `SQLite` · `Node.js` · `pnpm` · `Cloudflare Workers` · `MCP` · `Ollama / LM Studio` · `PyTorch` · `NumPy` · `Git`
-
----
-
-<div align="center">
-
-**Building local-first software in the open.**
-
-Bug reports, ideas and pull requests are all welcome — [open an issue](https://github.com/pan-nie/pan-nie/issues) or just say [hi](mailto:hello@nathanpenny.fun).
-
-</div>
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
