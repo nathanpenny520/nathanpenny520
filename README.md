@@ -14,15 +14,15 @@ Tsinghua University · Beijing
 
 ## Selected Projects
 
-| Project | ★ | About |
-| --- | --- | --- |
-| [Nmail](https://github.com/pan-nie/Nmail) | 13 | Local-first AI email client — multi-account inbox, AI triage and drafted replies, with every send approved by you. |
-| [LocalAIAssistant](https://github.com/pan-nie/LocalAIAssistant) | 20 | Cross-platform desktop AI assistant — GUI and CLI in one binary, with a voice-interactive companion. |
-| [Tsinghua Agent](https://github.com/pan-nie/TsinghuaMCP) | 9 | Long-running personal agent for campus affairs — 64 tools, a resident supervisor and push alerts. |
-| [DeepLearningCourseForMe](https://github.com/pan-nie/DeepLearningCourseForMe) | 11 | Deep learning from first principles — 62 runnable lessons across 8 modules. |
-| [TsinghuaSurvive](https://github.com/pan-nie/TsinghuaSurvive) | 11 | A student-written survival guide for Tsinghua. |
-| [whizzzest.com](https://github.com/pan-nie/whizzzest.com) | 11 | A digital cultural-tourism experience for 焰境·万载. |
-| [nmail-site](https://github.com/pan-nie/nmail-site) | 11 | Nmail's official website. |
+| Project | About |
+| --- | --- |
+| [Nmail](https://github.com/pan-nie/Nmail) | Local-first AI email client — multi-account inbox, AI triage and drafted replies, with every send approved by you. |
+| [LocalAIAssistant](https://github.com/pan-nie/LocalAIAssistant) | Cross-platform desktop AI assistant — GUI and CLI in one binary, with a voice-interactive companion. |
+| [Tsinghua Agent](https://github.com/pan-nie/TsinghuaMCP) | Long-running personal agent for campus affairs — 64 tools, a resident supervisor and push alerts. |
+| [DeepLearningCourseForMe](https://github.com/pan-nie/DeepLearningCourseForMe) | Deep learning from first principles — 62 runnable lessons across 8 modules. |
+| [TsinghuaSurvive](https://github.com/pan-nie/TsinghuaSurvive) | A student-written survival guide for Tsinghua. |
+| [whizzzest.com](https://github.com/pan-nie/whizzzest.com) | A digital cultural-tourism experience for 焰境·万载. |
+| [nmail-site](https://github.com/pan-nie/nmail-site) | Nmail's official website. |
 
 ---
 
