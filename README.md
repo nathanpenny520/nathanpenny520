@@ -6,7 +6,7 @@
 
 Tsinghua University · Beijing
 
-[GitHub](https://github.com/pan-nie) · [X](https://x.com/pan_nie_thu) · [Résumé](https://pan-nie.github.io)
+[GitHub](https://github.com/pan-nie) · [X](https://x.com/pan_nie_thu) · [Résumé](https://pan-nie.github.io) · [Linkedln](https://linkedln/in/pan-nie)
 
 </div>
 
